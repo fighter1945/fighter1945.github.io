@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 无聊的世界中寻找有趣 | BY Blog
+title: doko Blog
+SEOTitle: 无聊的世界中寻找有趣 | doko Blog
 header-img: img/post-bg-desk.jpg
-email: likun2010@gmail.com
+email: #likun2010@gmail.com
 description: "无聊的世界中寻找有趣"
-keyword: "BY, BY Blog, 无聊,  php, javascript, linux"
+keyword: "doko,code, php, javascript, linux"
 url: "http://fighter1945.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fighter1945/fighter1945.github.io.git" # you code repository
